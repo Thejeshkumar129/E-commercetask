@@ -1,0 +1,110 @@
+#total{
+     background-image: url("../E-commerse/image/backroundimage.jpg");
+     background-position: center;
+     background-size: cover; 
+    background-repeat: no-repeat;  
+     height:100vh;
+     display: flex;
+     align-items: center;
+     justify-content: space-evenly;
+}
+ #one{
+    /* position: relative;
+    top: 25vh;
+    left: 40vw; */
+   background: rgba(255, 255, 255, 0.74);
+   /* width: 397px; */
+     padding: 0px 44px;}
+      
+ #two{
+    display: flex;
+    flex-direction: column;
+    background: rgba(130, 130, 130, 0.81); 
+     padding: 20px 30px;
+    border-top-color: rgba(255, 255, 255, 0.4);
+    border-left-color: rgba(255, 255, 255, 0.4);
+    border-bottom-color: rgba(60, 60, 60, .4);
+    border-right-color: rgba(60, 60, 60, .4);
+    
+    
+ }   
+ #loginpage{
+width: 500px;
+ } 
+ 
+.sign{
+
+    color: white;
+    font-size: 20px;
+    border-bottom: 1px solid white;
+    width:420px; 
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+ input{
+   margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(39,35,35,0.29);
+    padding: 10px 7px;
+    border:1px solid white;
+    width:420px;
+    
+ }
+ ::placeholder{
+    color: rgba(154, 149, 149, 0.81);
+    font-size: 20px;
+ }
+ .logo2{
+   position: absolute;
+ left: 1145px;
+ top: 370px;
+   color: rgba(228, 208, 209, 0.874);
+   font-size: 20px;
+  
+ }
+ .logo3{
+   position: absolute;
+ left: 1145px;
+ top: 445px;
+   color: rgba(228, 208, 209, 0.874);
+   font-size: 20px;
+  
+ }
+
+ #line{
+   border: 1px solid white;
+   margin-top: 10px;
+   margin-bottom: 10px;
+
+ }
+ a{
+  color: white;
+  text-decoration-line: none;
+  margin-bottom: 10px;
+  margin-top: 10px;
+ }
+ a:hover{
+  /* margin-bottom: 15px; */
+   text-decoration-line: underline;
+ }
+ button{
+  width: 190px;
+  height: 40px;
+  position: relative;
+  top: -30px;
+  left: 250px;
+  font-size: 20px;
+  background-color: rgba(130, 130, 130, 0.449);
+  border: 1px solid white;
+  color: white;
+ }
+ #last{
+  font-size: larger;
+  font-weight: 700;
+  color: white;
+  padding: 26px;
+  padding-left: 90px;
+ }
+     
+ 
